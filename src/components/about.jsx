@@ -1,5 +1,4 @@
 import React from "react";
-import myImage from "../img/myImage.png";
 
 class About extends React.Component {
   constructor() {
@@ -44,7 +43,8 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "I'm a A MERN Stack developer with experience in multiple reactJS projects. And Comfortable with Responsive and Dynamic web design. Looking for an opportunity to work as a Full-stack developer. I have a strong passion for programming and problem solving. I love finding errors and debugging code. I am familiar with NodeJS, ExpressJS and MongoDB. I have also worked with React Bootstrap. I have experience in commpetitive programming and participated in many contests. Feel free to check out my Resume for detailed information. Thank You."
+            `I'm a A MERN Stack developer with experience in multiple reactJS projects. And Comfortable with Responsive and Dynamic web design. Looking for an opportunity to work as a Full-stack developer. I have a strong passion for programming and problem solving. I love finding errors and debugging code.
+            I am familiar with NodeJS, ExpressJS and MongoDB. I have also worked with React Bootstrap. I have experience in commpetitive programming and participated in many contests. Feel free to check out my Resume for detailed information. Thank You. `
         },
       ]
     };
